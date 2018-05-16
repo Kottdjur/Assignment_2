@@ -1,0 +1,1 @@
+Changed spark local ip option to the ip of my instance.
